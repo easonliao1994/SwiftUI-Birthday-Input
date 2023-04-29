@@ -2,6 +2,10 @@
 
 This is a simple SwiftUI app that allows users to input their birthday in the format of YYYY-MM-DD. Non-digit characters are automatically removed and the input is automatically formatted to match the desired format.
 
+<p align="left" width="100%">
+    <img width="150" src="Resources/screenshot01.png"> 
+    <img width="150" src="Resources/screenshot02.png"> 
+</p>
 
 ## Installation
 
